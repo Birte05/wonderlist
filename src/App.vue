@@ -1,6 +1,7 @@
 <template>
    <div>
     <h1>Wonderlist</h1>
+    <h2>I will help you organize your life.</h2>
     <md-card>
       <md-field>
         <md-input
