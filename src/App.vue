@@ -1,8 +1,9 @@
 <template>
    <div>
     <h1>Wonderlist</h1>
-    <h2>With this list you can add, edit, check complete and delete task that you need to do.
-    Start now organizing yourself.</h2>
+    <h2>With this list you can add, edit, check complete and delete tasks that you need to do.
+    <br>
+    Start organizing yourself now.</h2>
     <md-card>
       <md-field>
         <md-input
