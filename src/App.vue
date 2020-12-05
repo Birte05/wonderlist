@@ -1,7 +1,8 @@
 <template>
    <div>
     <h1>Wonderlist</h1>
-    <h2>I will help you organize your life.</h2>
+    <h2>This app helps you to create a list of things to do.<br>
+    You can add, edit, mark complete and delete items.</h2>
     <md-card>
       <md-field>
         <md-input
